@@ -1,9 +1,9 @@
 # Welcome
 
-Welcome to COVID19 Data Visualization using Python. This is a project-based course which should take approximately 2 hours to finish. Before diving into the project, please take a look at the course objectives and structure:
+Welcome to COVID19 Data Visualization using Python. This is a project-based which should take approximately 2 hours to finish. Before diving into the project, please take a look at the project objectives and structure:
 
-# Course Objectives
-In this course, we are going to focus on 3 learning objectives:
+# Project Objectives
+In this project, we are going to focus on 3 learning objectives:
 
 1. Learn to use visualization to answer to some analytical questions
 2. Learn to use different graphs needed to illustrate insights in your dataset
